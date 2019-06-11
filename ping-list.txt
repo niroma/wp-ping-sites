@@ -1,3 +1,4 @@
+http://TEST.COM
 http://api.feedster.com/ping
 http://api.moreover.com/ping
 http://api.moreover.com/RPC2
