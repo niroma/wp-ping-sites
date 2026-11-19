@@ -60,6 +60,7 @@ http://www.snipsnap.org
 http://www.snipsnap.org/RPC2
 http://www.weblogues.com
 http://www.weblogues.com/RPC
+http://xping.pubsub.com/ping/
 https://blogmatcher.com/u.php
 https://bulkfeeds.net/rpc
 https://coreblog.org/ping
